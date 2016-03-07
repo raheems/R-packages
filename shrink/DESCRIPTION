@@ -1,0 +1,11 @@
+Package: shrink
+Type: Package
+Title: James-Stein Shrinkage Estimation in Linear Regression
+Version: 1.0-1
+Date: 2010-09-28
+Author: Enayetur Raheem
+Maintainer: Enayetur Raheem <eraheem@gMail.com>
+Depends: R (>= 2.11.0), MASS
+Description: James-Stein type shrinkage estimation in linear regression models
+License: GPL-2
+LazyLoad: yes
